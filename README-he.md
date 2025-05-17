@@ -13,8 +13,11 @@
 
 <div dir="rtl">
 ## 🌐 Nanobrowser
-
+</div>
+<div dir="rtl">
 Nanobrowser הוא כלי אוטומציית רשת מבוסס AI בקוד פתוח הפועל בדפדפן שלכם. חלופה חינמית ל-OpenAI Operator עם אפשרויות LLM גמישות ומערכת מרובת סוכנים.
+</div>
+
 
 ⬇️ הורידו את [Nanobrowser מחנות האינטרנט של Chrome](https://chromewebstore.google.com/detail/nanobrowser/imbddededgmcgfhfpcjmijokokekbkal) בחינם
 
