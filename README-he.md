@@ -11,6 +11,7 @@
 
 </div>
 
+<div dir="rtl">
 ## 🌐 Nanobrowser
 
 Nanobrowser הוא כלי אוטומציית רשת מבוסס AI בקוד פתוח הפועל בדפדפן שלכם. חלופה חינמית ל-OpenAI Operator עם אפשרויות LLM גמישות ומערכת מרובת סוכנים.
@@ -234,3 +235,4 @@ Nanobrowser מתבסס על פרויקטי קוד פתוח מדהימים אחר
 נוצר ב-❤️ על ידי צוות Nanobrowser.
 
 אוהבים את Nanobrowser? תנו לנו כוכב 🌟 והצטרפו אלינו ב-Discord | X
+</div>
